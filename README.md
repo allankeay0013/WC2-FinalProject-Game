@@ -1,12 +1,12 @@
 # WC2-FinalProject-Game
 AudioGame, a digital memory journey built in Unity.
-# AudioGame: A Real-Time Digital Memory Tower
+# A Journey Through Digital Memory: A Real-Time Digital Memory Tower
 
 By Kyle Jiang
 
 ## Project Description
 
-AudioGame is a real-time Unity-based computational artwork. The viewer explores a digital memory tower made from scanned landscapes, human activity traces, abstract sculptural structures and interactive memory fragments. The player collects six device cores to complete a digital memory journey.
+'A Journey Through Digital Memory' is a real-time Unity-based computational artwork. The viewer explores a digital memory tower made from scanned landscapes, human activity traces, abstract sculptural structures and interactive memory fragments. The player collects six device cores to complete a digital memory journey.
 
 ## Video Documentation
 
