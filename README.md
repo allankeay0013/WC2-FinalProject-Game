@@ -28,20 +28,12 @@ Unity 6.3 LTS / 6000.3.3f1
 
 The full Unity source project is provided in the GitHub Release:
 
-Release: v1.0-final-submission
 
 The source zip contains:
 - Assets
 - Packages
 - ProjectSettings
 
-The following Unity folders are intentionally excluded to reduce file size:
-- Library
-- Temp
-- Logs
-- Obj
-- Build
-- UserSettings
 
 ## Submission Note
 
