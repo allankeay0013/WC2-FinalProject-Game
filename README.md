@@ -1,5 +1,5 @@
 # WC2-FinalProject-Game
-AudioGame, a digital memory journey built in Unity.
+A Journey Through Digital Memory, a digital memory journey game built in Unity.
 # A Journey Through Digital Memory: A Real-Time Digital Memory Tower
 
 By Kyle Jiang
