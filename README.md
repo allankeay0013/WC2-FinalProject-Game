@@ -16,11 +16,6 @@ Vimeo link: https://vimeo.com/1193228272?fl=ip&fe=ec
 
 Unity 6.3 LTS / 6000.3.3f1
 
-## Main Scene
-
-Assets/Scenes/4.unity
-
-If the final scene has a different name, please open the final scene included in the Assets/Scenes folder.
 
 ## Controls
 
@@ -39,7 +34,6 @@ The source zip contains:
 - Assets
 - Packages
 - ProjectSettings
-- README_WC2.txt
 
 The following Unity folders are intentionally excluded to reduce file size:
 - Library
